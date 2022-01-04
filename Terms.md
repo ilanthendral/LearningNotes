@@ -4,3 +4,6 @@
 
 - Richard Hickey - Clojure Language Designer
 
+## Calibration
+**Calibration is essential to maintain tools accuracy and repeatability over time.**
+How does that apply to software development ?
